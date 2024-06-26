@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Git is a version control system
 =======
 Git is a version control system new-branch
 >>>>>>> new-branch
+=======
+Git is a version control system new
+>>>>>>> parent of dca762a (removed new)
