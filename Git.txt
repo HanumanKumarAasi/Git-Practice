@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Git is a version control system
+=======
+Git is a version control system new-branch
+>>>>>>> new-branch
